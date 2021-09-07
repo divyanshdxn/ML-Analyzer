@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MLKit App</string>
+    <string name="home_screen_route">HOME_SCREEN_ROUTE</string>
+    <string name="scanner_screen_route">SCANNER_SCREEN_ROUTE</string>
+    <string name="permission_message">Required permission denied!</string>
+</resources>
