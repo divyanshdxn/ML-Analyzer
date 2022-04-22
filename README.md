@@ -1,5 +1,9 @@
 # MLKit-Analyzer
 A simple application based on <a href = "https://developers.google.com/ml-kit">Google MLKit</a>
+It can be used to
+- scan barcodes/qr codes
+- text recognisation
+- object detection
 
 ## Libraries Used
 <li>Android Jetpack compose</li>
