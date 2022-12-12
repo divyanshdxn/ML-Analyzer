@@ -1,5 +1,5 @@
 # MLKit-Analyzer
-A simple application based on <a href = "https://developers.google.com/ml-kit">Google MLKit</a>
+A simple application based on as an application of Machine Learning Models It can be used to
 It can be used to
 - scan barcodes/qr codes
 - text recognisation
